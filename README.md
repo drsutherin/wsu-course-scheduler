@@ -7,5 +7,5 @@ Create a Java project named `autoregister` in Eclipse IDE, then add Autoregister
 This was tested for summer 2017 courses and is functional as of March 2017.  However, links are hard-coded so any change to WINGS Express could prevent the application from working.
 
 ### References
-[AlertSite Tutorial on Creating a Runnable JAR from a Selenium Script](http://doc.alertsite.com/synthetic/monitors/selenium/create-runnable-jar-from-selenium-script-using-eclipse.htm#project)
-[Selenium HQ "Waits" Page](http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp)
+* [AlertSite Tutorial on Creating a Runnable JAR from a Selenium Script](http://doc.alertsite.com/synthetic/monitors/selenium/create-runnable-jar-from-selenium-script-using-eclipse.htm#project)
+* [Selenium HQ "Waits" Page](http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp)
